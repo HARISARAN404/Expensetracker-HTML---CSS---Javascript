@@ -1,0 +1,45 @@
+/* 03.css */
+.Exp_heading {
+    text-align: center;
+}
+.add_exp {
+    background-color: green;
+    color: #f0f8ff;
+    height: 40px;
+    width: 15%;
+    border-radius: 5px;
+    border: solid 1px;
+}
+input, select {
+    height: 40px;
+    border-radius: 5px;
+    border: solid 1px gray;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+.action-btn {
+    cursor: pointer;
+    margin: 0 5px;
+}
+h3 {
+    margin-top: 20px;
+    text-align: right;
+}
+.right {
+    text-align: end;
+}
+.whole {
+    width: 800px;
+    text-align: center;
+    margin: 10% auto;
+    border: solid 1px;
+    padding: 30px;
+}
